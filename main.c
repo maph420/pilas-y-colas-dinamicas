@@ -1,10 +1,3 @@
-//Autor: Alan Hergenreder.
-/*Pila
-Una pila (Stack) es una estructura de datos definida por la siguiente forma:
--Solo se puede extraer el último elemento instertado.
-La posicion en la que se encuentra dicho elemento se denomina Tope.
-Se dice que las Pilas son una estuctura de datos LIFO (Last-In First-Out).*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "pila.h"
