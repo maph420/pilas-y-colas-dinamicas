@@ -1,2 +1,11 @@
 # pilas-y-colas-dinamicas
-pilas y colas circulares en C
+
+Compilación:
+
+> gcc -c pila.c pila.h
+> \
+> gcc -gstabs -Wall -o main main.c pila.o
+
+Y ejecutar:
+
+> ./main
